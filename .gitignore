@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+.gitignore
+.DS_Store
+.ipynb_checkpoints
+*Copy*
+
